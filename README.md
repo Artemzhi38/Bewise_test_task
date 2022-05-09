@@ -37,7 +37,7 @@ To check all volumes on your machine use docker command:
 
 **docker volume ls**
 
-To clean database state find volume for this project (original name is "bewise_postgres_data") ang delete it:
+To clean database state find volume for this project (original name is "bewise_test_task_postgres_data") ang delete it:
 
 **docker volume rm bewise_postgres_data**
 
